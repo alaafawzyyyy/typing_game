@@ -6,7 +6,7 @@ function Top() {
       <h3>with Hooks and Ref</h3>
       <h5>
         by{" "}
-        <a className="second-color" href="https://x.com/alaa_faawzyy">
+        <a className="secondry-color" href="https://x.com/alaa_faawzyy">
           @alaa_faawzyy
         </a>
       </h5>
