@@ -19,6 +19,17 @@ A fun and interactive typing speed game built with React. The game measures how 
 - HTML & CSS
 - JavaScript (ES6)
 
+## screenshots
+
+start the game
+![start the game](./src/assets/start.png)
+
+playing
+![playing](./src/assets/playing.png)
+
+finishing the game
+![finishing the game](./src/assets/finish.png)
+
 ## Installation
 
 1. Clone the repository:
